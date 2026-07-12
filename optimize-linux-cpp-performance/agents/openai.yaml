@@ -1,0 +1,4 @@
+interface:
+  display_name: "Linux C++ 性能优化"
+  short_description: "系统化诊断并优化 Linux 上的 C++ 服务性能"
+  default_prompt: "Use $optimize-linux-cpp-performance to profile and optimize this Linux C++ service with measurable evidence."
